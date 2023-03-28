@@ -1,1 +1,8 @@
-**/.DS_Store
+
+.env
+
+docker/*.ipynb
+
+**.DS_Store
+**.ipynb_checkpoints
+**/__pycache__
